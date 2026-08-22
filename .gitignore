@@ -1,0 +1,4 @@
+node_modules/
+.wrangler/
+assets-src/*.txt
+.shots/
