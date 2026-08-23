@@ -116,3 +116,4 @@
 .exercise details[open] summary::before { content: "– "; }
 .exercise .model { border-top: 1px solid var(--rule); padding-top: .8rem; font-size: 1.05rem; }
 .exercise .model .lead { font-family: var(--mono); font-size: .78em; letter-spacing: .08em; text-transform: uppercase; color: var(--red); }
+@media (max-width: 640px) { .brand__sub { display: none; } }
