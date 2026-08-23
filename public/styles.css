@@ -79,6 +79,7 @@ p { margin: 0 0 1.1em; }
 }
 .nav a.is-active { border-bottom-color: var(--ink); }
 .nav a:hover { border-bottom-color: var(--red); }
+.nav a.nav__out { color: var(--red); }
 
 /* ---------- Sections ---------- */
 main { max-width: var(--wrap); margin: 0 auto; padding: 0 var(--gutter); }
